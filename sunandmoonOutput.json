@@ -1,0 +1,44 @@
+{
+    "documents": [
+        {
+            "id": "id__864",
+            "sentiment": "neutral",
+            "confidenceScores": {
+                "positive": 0.06,
+                "neutral": 0.92,
+                "negative": 0.02
+            },
+            "sentences": [
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.98,
+                        "negative": 0.01
+                    },
+                    "offset": 0,
+                    "length": 62,
+                    "text": "The sun sets, casting hues of orange and pink across the sky. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.1,
+                        "neutral": 0.85,
+                        "negative": 0.04
+                    },
+                    "offset": 62,
+                    "length": 57,
+                    "text": "Night descends, cloaking the world in a blanket of stars.",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}
